@@ -30,3 +30,7 @@ Ukrainian: Native
 
 #### **Сourses**
 Finished a Web-design course at the Wezom Academy, 2018.
+
+```
+code
+```
