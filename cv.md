@@ -27,3 +27,6 @@ I enjoy web development. Responsible and friendly, open to new knowledge and lea
 English: A2 - B1\
 Russian: Native\
 Ukrainian: Native
+
+#### **Сourses**
+Finished a Web-design course at the Wezom Academy, 2018.
