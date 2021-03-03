@@ -101,6 +101,18 @@ h3 {
 }
 
 
+/* Summary
+=================== */
+
+.summary__content {
+    margin-bottom: 10px;
+}
+
+.summary__content:last-child {
+    margin-bottom: 0;
+}
+
+
 /* Education
 =================== */
 
